@@ -1,0 +1,33 @@
+         Python
+------------------------
+https://www.python.org/ 
+
+Relação: Linguagem utilizada para Base
+
+------------------------
+         Git
+------------------------
+https://git-scm.com/
+
+Relação: Sistema de Versionamento
+
+------------------------
+         Vscode
+------------------------
+https://code.visualstudio.com/
+
+Relação: Editor de Texto
+
+------------------------
+         SQLite Browser
+------------------------
+https://sqlitebrowser.org/
+
+Relação:
+
+------------------------
+         Navegador
+------------------------
+https://www.google.com/intl/pt-BR/chrome/
+
+Relação: Ferramenta Principal para visualizar paginas web

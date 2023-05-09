@@ -1,0 +1,35 @@
+#container{
+    display: grid;
+    gap:5px;
+}
+
+#container > div {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border: black solid 2px;
+    padding: 3em 0;
+}
+
+#div_4, #div_5,#div_6,#div_7,#div_8{
+    display: none;
+
+}
+
+@media only screen and (min-width: 481px){
+    #container{
+        grid-template-columns: auto auto;
+    }
+    #div_4, #div_5,#div_6{
+        display: block;
+    }    
+}
+@media only screen and (min-width: 1025px){
+    #container{
+        grid-template-columns: auto auto;
+    }
+    #div_7,#div_8{
+        display: block;
+    }    
+}
+
